@@ -26,7 +26,7 @@
 			</td>
 			<td>
 				<a href="https://github.com/FranFrau?tab=repositories">
-					<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranFrau&layout=compact&theme=tokyonight" width="442" height="200">
+					<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranFrau&layout=compact&theme=tokyonight" width="380" height="200">
 				</a>
 			</td>
 		</tr>
